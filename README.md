@@ -1,5 +1,36 @@
 <a href="mailto:tinaho1000@gmail.com"><img src="https://img.shields.io/badge/Email-Tina-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tina-ho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tina%20Ho-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+
+# [NASA Images](https://github.com/keepitweird/NASAImages)
+<p align="left"> 
+<a href="https://github.com/keepitweird/NASAImages"><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150"></a>
+</p>
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/16713739/141223425-d6cae0a8-d123-40e6-bc26-6e877cb8085a.gif" width="230"  title="NASA Images gif">  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/16713739/141223554-880b37f8-daa8-431b-a8e4-c7b809b1b1c4.png" width="230"  title="NASA Images screenshot 1">  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/16713739/141223605-d5cd52d8-393a-4281-a4f3-e6d7bfbefcfc.png" width="230"  title="NASA Images screenshot 2">  
+</p>
+
+### Technology
+* Framework: UIKit
+* MVC (Model-View-Controller) architecture
+* NASA Image and Video Library API
+* Caching
+* Table view
+* Custom cell
+* Navigation controller
+* Segue
+* Pull to refresh
+* Alert
+* Auto layout
+
+### Introduction
+Are you feeling a little “spacey” today? Let’s go on an adventure and explore the universe with NASA. This app sources its images right from [NASA Image and Video Library](https://images.nasa.gov/). Buckle up. The sky’s *not* the limit.
+
+
 # [Covid Update](https://github.com/keepitweird/CovidUpdate)
 <p align="left"> 
 <a href="https://github.com/keepitweird/CovidUpdate"><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150"></a>
@@ -21,7 +52,7 @@
 * Auto layout
 * Dark mode support
 
-### Use Case
+### Introduction
 The Covid Update app keeps you informed with COVID-19 risks. Wonder what the current COVID situation is in your state? Or perhaps the different states' risks on your cross country road trip? This Covid Update app will be your best companion to keep you up to date with live data from [Covid Act Now](https://covidactnow.org/).
 
 
@@ -51,5 +82,5 @@ Enhancements was made to the initial project that's part of the tutorials in The
 * Alarm sound playback
 * Progress view
 
-### Use Case
-The Egg Timer app helps you boil your eggs to perfection, depending on how you like them (soft, medium, or hard). Everyday is egg-stra special when you treat yourself with this delicious and healthier protein.
+### Introduction
+The Egg Timer app helps you boil your eggs to perfection, depending on how you like them (soft, medium, or hard). Everyday is egg-stra special when you treat yourself with this delicious and professionally cooked protein.
