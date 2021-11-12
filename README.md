@@ -1,10 +1,12 @@
 <a href="mailto:tinaho1000@gmail.com"><img src="https://img.shields.io/badge/Email-Tina-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tina-ho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tina%20Ho-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-# [NASA Images](https://github.com/keepitweird/NASAImages)
-<p align="left"> 
-<a href="https://github.com/keepitweird/NASAImages"><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150"></a>
-</p>
+
+# [NASA Images](https://github.com/keepitweird/NASAImages) &nbsp; <a href="https://github.com/keepitweird/NASAImages"><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="100"></a>
+
+### Introduction
+Are you feeling a little “spacey” today? Let’s go on an adventure and explore the universe with NASA. This app sources its images right from [NASA Image and Video Library](https://images.nasa.gov/). Buckle up. The sky’s *not* the limit.
+<br><br>
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/16713739/141223425-d6cae0a8-d123-40e6-bc26-6e877cb8085a.gif" width="230"  title="NASA Images gif">  
@@ -27,14 +29,13 @@
 * Alert
 * Auto layout
 
+
+
+# [Covid Update](https://github.com/keepitweird/CovidUpdate) &nbsp; <a href="https://github.com/keepitweird/CovidUpdate"><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="100"></a>
+
 ### Introduction
-Are you feeling a little “spacey” today? Let’s go on an adventure and explore the universe with NASA. This app sources its images right from [NASA Image and Video Library](https://images.nasa.gov/). Buckle up. The sky’s *not* the limit.
-
-
-# [Covid Update](https://github.com/keepitweird/CovidUpdate)
-<p align="left"> 
-<a href="https://github.com/keepitweird/CovidUpdate"><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150"></a>
-</p>
+The Covid Update app keeps you informed with COVID-19 risks. Wonder what the current COVID situation is in your state? Or perhaps the different states' risks on your cross country road trip? This Covid Update app will be your best companion to keep you up to date with live data from [Covid Act Now](https://covidactnow.org/).
+<br><br>
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/16713739/140449058-d59b640e-908e-4dff-a3a2-6d6d354201f1.gif" width="230"  title="Covid Update gif">  
@@ -52,14 +53,13 @@ Are you feeling a little “spacey” today? Let’s go on an adventure and expl
 * Auto layout
 * Dark mode support
 
+
+
+# [Egg Timer](https://github.com/keepitweird/EggTimer) &nbsp; <a href="https://github.com/keepitweird/EggTimer"><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="100"></a>
+
 ### Introduction
-The Covid Update app keeps you informed with COVID-19 risks. Wonder what the current COVID situation is in your state? Or perhaps the different states' risks on your cross country road trip? This Covid Update app will be your best companion to keep you up to date with live data from [Covid Act Now](https://covidactnow.org/).
-
-
-# [Egg Timer](https://github.com/keepitweird/EggTimer)
-<p align="left"> 
-<a href="https://github.com/keepitweird/EggTimer"><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150"></a>
-</p>
+The Egg Timer app helps you boil your eggs to perfection, depending on how you like them (soft, medium, or hard). Everyday is egg-stra special when you treat yourself with this delicious and professionally cooked protein.
+<br><br>
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/16713739/140429999-d4e93c8d-7e03-459d-bab4-1c3ba05c016d.gif" width="230"  title="Egg Timer gif">
@@ -82,5 +82,4 @@ Enhancements was made to the initial project that's part of the tutorials in The
 * Alarm sound playback
 * Progress view
 
-### Introduction
-The Egg Timer app helps you boil your eggs to perfection, depending on how you like them (soft, medium, or hard). Everyday is egg-stra special when you treat yourself with this delicious and professionally cooked protein.
+
